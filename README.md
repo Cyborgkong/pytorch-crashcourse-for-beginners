@@ -23,6 +23,13 @@ This first commit covers the **very basics** of PyTorch:
   - Installing PyTorch using pip
   - Importing torch and checking version/device availability
 
+
+### Day 2:
+
+Today we covered generating tensor random numbers, understanding and manipulating that data (image data)
+
+## Tomorrow we will cover:
+### CREATING TENSORS WITH ZEROS AND ONES IN PyTorch
 ---
 
 ## 🚧 Project Structure (so far)
@@ -93,4 +100,3 @@ If you're starting from zero:
 - Ask questions — this is for us.
 
 > You're not too late. You’re early.
-
